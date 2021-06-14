@@ -58,3 +58,14 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*meta
+[Aa]ssets/Resources
+[Aa]ssets/Plugins
+[Aa]ssets/Scenes
+[Aa]ssets/Game/Animations
+[Aa]ssets/Game/Font
+[Aa]ssets/Game/Material
+[Aa]ssets/Game/Prefabs
+[Aa]ssets/Game/Sounds
+[Aa]ssets/Game/Texture
+[Aa]ssets/Game/*meta
